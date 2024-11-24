@@ -1,0 +1,12 @@
+{
+  "name": "isoddeven",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rajdeep Adhikary",
+  "license": "ISC",
+  "description": "A simple package to test any given number is odd or even"
+}
